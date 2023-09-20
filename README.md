@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Welcome to the Ethical Hacking Projects Repository. This repository contains a collection of Python projects and tools created during my journey as a cybersecurity student and ethical hacker. These projects are designed for educational purposes and to improve my skills in ethical hacking, penetration testing, and cybersecurity.
+Welcome to the Ethical Hacking Projects Repository. This repository contains a collection of Python projects and tools created during my journey as a cybersecurity enthusiast and aspiring ethical hacker. These projects are designed for educational purposes and to improve my skills in ethical hacking, penetration testing, and cybersecurity.
 
 ## Table of Contents
 
