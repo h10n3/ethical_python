@@ -1,9 +1,9 @@
 # ethical_python
 # Ethical Hacking Projects Repository
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo-name)
+![GitHub](https://img.shields.io/github/license/msthione/ethical_python)
+![GitHub last commit](https://img.shields.io/github/last-commit/msthione/ethical_python)
+![GitHub contributors](https://img.shields.io/github/contributors/msthione/ethical_python)
 
 ## Introduction
 
